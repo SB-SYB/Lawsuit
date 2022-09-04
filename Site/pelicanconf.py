@@ -14,6 +14,7 @@ MENUITEMS = (
     ('Home', '/'),
     ('About', 'https://home.sb-hrms.com/pages/about.html'),
     ('Resource', 'https://home.sb-hrms.com/pages/resource.html'),
+    ('Evidence', 'https://github.com/SB-SYB/Lawsuit/tree/main/Site/content/posts/casestudy'),
 )
 
 # Feed generation is usually not desired when developing
